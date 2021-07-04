@@ -1,8 +1,8 @@
-##Optimization Algorithms for Binary Classification Models
+## Optimization Algorithms for Binary Classification Models
 
 
 
-###About this project 
+### About this project
 
 - This is the final project for the *Introduction to Optimization* course at CUHKSZ
 - Several optimization algorithms are implemented for two binary classification models:
